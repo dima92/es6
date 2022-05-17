@@ -8,7 +8,7 @@
   },
   "author": "Dmitry Tkachenko <dima-tkachenko@mail.ru>",
   "scripts": {
-    "watch": "babel app/js -d app/dist --preset env -w"
+    "watch": "babel app/js -d app/dist --presets env -w"
   },
   "license": "ISC",
   "bugs": {
