@@ -7,9 +7,17 @@
     "url": "git+https://github.com/dima92/es6.git"
   },
   "author": "Dmitry Tkachenko <dima-tkachenko@mail.ru>",
+  "scripts": {
+    "watch": "babel app/js -d app/dist --preset env -w"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dima92/es6/issues"
   },
-  "homepage": "https://github.com/dima92/es6#readme"
+  "homepage": "https://github.com/dima92/es6#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0"
+  }
 }
