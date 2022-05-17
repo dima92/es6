@@ -1,0 +1,15 @@
+{
+  "name": "es6",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dima92/es6.git"
+  },
+  "author": "Dmitry Tkachenko <dima-tkachenko@mail.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dima92/es6/issues"
+  },
+  "homepage": "https://github.com/dima92/es6#readme"
+}
